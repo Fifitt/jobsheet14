@@ -12,18 +12,16 @@
         android:background="#9D00FF">
 
         <TextView
-            android:layout_width="160dp"
-            android:layout_height="34dp"
-            android:text="BUSANA"
+            android:layout_width="263dp"
+            android:layout_height="49dp"
+            android:text="TATA BUSANA"
             android:textAlignment="center"
             android:textColor="@color/black"
             android:textSize="25sp"
             android:textStyle="bold"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.498"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.499" />
+            app:layout_constraintTop_toTopOf="parent" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 </FrameLayout>

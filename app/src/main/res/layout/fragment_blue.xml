@@ -14,7 +14,7 @@
         <TextView
             android:layout_width="160dp"
             android:layout_height="34dp"
-            android:text="TPFL"
+            android:text="TEKNIK LAS"
             android:textAlignment="center"
             android:textSize="25sp"
             android:textColor="@color/black"
